@@ -1,0 +1,2 @@
+# Churn-Ratio-Predictions-for-DSC-Nonprofit-Organization
+Review training and test set for donors and gifts; cleaned the data, identified and created variables as well as visualized the data through libraries such as pandas, sklearn, seaborn and matplotlib. Based on the new basetable, provided predictive modeling evaluation through SVM, Decision Tree, Logistic Regression and Random Forest. Compared test and training set through AUC. 
